@@ -1,30 +1,22 @@
-# Responsive Quiz App Using Spring Boot
+##  Responsive Quiz App Using Spring Boot
 
-MCQ based quiz application using Spring Boot, Spring Data JPA, MySQL, Thymeleaf and Bootstrap 5.
-This project was made as a part of my channel's Spring Boot Tutorial series in Bangla.
+MCQ based quiz application using Spring Boot, Spring Data JPA, MySQL and Thymeleaf.
 
-##### Check the video tutorial here: [Spring Boot Quiz App](https://youtu.be/BqLl7mckWv8)
+##  Features
+- User can enter name and start the quiz
+- Take quizzes by selecting categories
+- Multiple-choice questions with scoring system
+- Admin dashboard to:
+  - Add, update, delete quiz questions
+  - Manage categories
+- Stores quiz history for users
+- Simple and responsive UI with Thymeleaf
 
----
+##  Tech Stack
+- **Backend:** Java 17, Spring Boot, Spring Data JPA 
+- **Database:** MySQL  
+- **Frontend:** Thymeleaf, HTML, CSS
+- **Build Tool:** Maven  
+- **Version Control:** Git & GitHub  
 
-### Start Page
 
-![Start Page](https://raw.githubusercontent.com/DevRezaur/spring-boot-quiz-app/main/screenshots/Start%20Page.PNG)
-
-### Quiz Page
-
-![Quiz Page 1](https://raw.githubusercontent.com/DevRezaur/spring-boot-quiz-app/main/screenshots/Quiz%20Page%201.PNG)
-
-![Quiz Page 2](https://raw.githubusercontent.com/DevRezaur/spring-boot-quiz-app/main/screenshots/Quiz%20Page%202.PNG)
-
-### Result Page
-
-![Result Page](https://raw.githubusercontent.com/DevRezaur/spring-boot-quiz-app/main/screenshots/Result%20Page.PNG)
-
-### Score Board
-
-![Score Board](https://raw.githubusercontent.com/DevRezaur/spring-boot-quiz-app/main/screenshots/Score%20Board.PNG)
-
----
-
-### Have a nice day
